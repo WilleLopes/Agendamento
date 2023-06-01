@@ -72,12 +72,12 @@ class UsersServices {
       throw new Error('User or password invalid.');
     }
     const passwordMatch = await compare(password, findUser.password);
-
+    
     if (!passwordMatch) {
       throw new Error('User or password invalid.');
     }
 
-    let secretKey: string | undefined = process.env.ACCESS_KEY_TOKEN;
+    let secretKey: undefined | string = process.env.ACCESS_KEY_TOKEN;
     if (!secretKey) {
       throw new Error('There is no token key');
     }
