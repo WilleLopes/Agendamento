@@ -9,15 +9,14 @@
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`DATABASE_URL="file:./dev.db"`
 
-`AWS_ACCESS_KEY_ID`
+`DATABASE_URL=""`
 
-`AWS_SECRET_ACCESS_KEY`
+`ACCESS_TOKEN_SECRET=""`
 
-`AWS_REGION`
+`ACCESS_KEY_TOKEN = ""`
 
-`ACCESS_KEY_TOKEN`
+`ACCESS_KEY_TOKEN_REFRESH = ""`
 
 
 ## Demo
