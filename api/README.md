@@ -1,14 +1,8 @@
 
-# Semana do Herói
-
-Na primeira semana do herói, desenvolvemos um projeto de Agendamento de Salão de beleza.
-
-
-
 ## Tech Stack
 
 
-**Server:** Node, Express, JWT, Middlewares, Prisma, SQLite
+**Server:** Node, Express, JWT, Middlewares, Prisma, Postgresql
 
 
 ## Environment Variables
@@ -27,7 +21,7 @@ To run this project, you will need to add the following environment variables to
 
 
 ## Demo
-<img width="auto" src="https://github.com/HeroCodeBR/semana-heroi-1/blob/master/ezgif.com-video-to-gif.gif">
+<img width="auto" src="https://www.figma.com/file/KnyXjs7837dNgoHDeSJ1EO/agendamento?type=design&t=Ss8UN9LP74aImpeX-0">
 
 
 ## Deployment
