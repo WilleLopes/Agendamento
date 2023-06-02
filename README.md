@@ -55,7 +55,7 @@ Para executar o projeto:
 
 
 ## Demo
-<img width="auto" src="./image/Cadastro.png">
-<img width="auto" src="./image/Login.png">
-<img width="100%" src="./image/app.png">
-<img width="100%" src="./image/app2.png">
+<img width="auto" src="./api/image/Cadastro.png">
+<img width="auto" src="./api/image/Login.png">
+<img width="100%" src="./api/image/app.png">
+<img width="100%" src="./api/image/app2.png">
