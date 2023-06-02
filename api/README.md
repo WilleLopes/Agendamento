@@ -55,4 +55,7 @@ Para executar o projeto:
 
 
 ## Demo
+<img width="auto" src="./image/Cadastro.png">
 <img width="auto" src="./image/Login.png">
+<img width="auto" src="./image/app.png">
+<img width="auto" src="./image/app2.png">
